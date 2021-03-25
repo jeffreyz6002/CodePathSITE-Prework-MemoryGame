@@ -16,6 +16,7 @@ var mistakesMade = 0;
 function startGame(){
     //initialize game variables
     randomizeSelection();
+    mistakesMade = 0;
     progress = 0;
     gamePlaying = true;
     document.getElementById("startButton").classList.add("hidden");
