@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+https://recordit.co/srBc5yhcCU
 
 ## Reflection Questions
 
@@ -58,24 +58,19 @@ was understanding the uses of singleClue() and why it was needed for playClueSeq
 would have taken longer time doing this prework.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-   From my understanding, going into developer tools reveals to the user the HTML of the website and the code that we have
-   generated for this assignment is an introduction level of the three languages, HTML, Javascript and CSS. Comparing the
-   code for this project with popular public domains, why are certain ids and names just made of random numbers and letters?
-   How long does it take to create a website? Assuming that websites are made by a group of people, without specified named
-   variables, how do each person and their group mates know what variables are what? How does the js, css and html work
-   together, they don’t seem to be imported and exported to one another? What would be the point of having numerous javascript
-   files for one page? How many lines of code does the average website have? What other languages are there for fullstack
-   developers instead of just HTML, CSS and Javascript?
+
+From my understanding, going into developer tools reveals to the user the HTML of the website and the code that we have
+generated for this assignment is an introduction level of the three languages, HTML, Javascript and CSS. Comparing the
+code for this project with popular public domains, why are certain ids and names just made of random numbers and letters?
+How long does it take to create a website? Assuming that websites are made by a group of people, without specified named
+variables, how do each person and their group mates know what variables are what? How does the js, css and html work
+together, they don’t seem to be imported and exported to one another? What would be the point of having numerous javascript
+files for one page? How many lines of code does the average website have? What other languages are there for fullstack
+developers instead of just HTML, CSS and Javascript?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 
-If I had a few more hours to work on this project, something I would like to implement an array of new features (pun intended :) ). As of now, the memory game allows for three tries per play and 6 buttons,
-I would like to create two dropdown or input boxes with descriptions to alter the amount of tries a player can receive and the number of colors a player has to tap so that the game can change in difficulty.
-Despite being able to alter the game’s properties, I would like the game to have another button for a basic mode of four colors, 0 tries and a near unlimited randomized patterns array so that I can add another
-detailed feature in the form of a leaderboard. The leaderboard’s function is pretty simple, to have the top 3 to 5 players’ score while having each color or sound they remember represent one point. In terms of
-aesthetic changes, the game’s background seems pretty bland and one dimensional, so possibly another button on top allowing the changes between dark mode and light mode would also be added to my current project.
-Another aesthetic feature that I would change would be the alert of winning and losing the game, adding some balloons pop up on the screen during a win or switching to a black and white screen to represent a
-loss may also be implemented.
+If I had a few more hours to work on this project, something I would like to implement an array of new features (pun intended :) ). As of now, the memory game allows for three tries per play and 6 buttons, I would like to create two dropdown or input boxes with descriptions to alter the amount of tries a player can receive and the number of colors a player has to tap so that the game can change in difficulty. Despite being able to alter the game’s properties, I would like the game to have another button for a basic mode of four colors, 0 tries and a near unlimited randomized patterns array so that I can add another detailed feature in the form of a leaderboard. The leaderboard’s function is pretty simple, to have the top 3 to 5 players’ score while having each color or sound they remember represent one point. In terms of aesthetic changes, the game’s background seems pretty bland and one dimensional, so possibly another button on top allowing the changes between dark mode and light mode would also be added to my current project. Another aesthetic feature that I would change would be the alert of winning and losing the game, adding some balloons pop up on the screen during a win or switching to a black and white screen to represent a loss may also be implemented.
 
 ## License
 
