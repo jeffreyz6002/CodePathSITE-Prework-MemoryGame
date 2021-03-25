@@ -4,7 +4,7 @@
 
 Submitted by: Junhui Zhang
 
-Time spent: 3 hours spent in total
+Time spent: 6 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/knowing-sandy-corn
 
